@@ -9,8 +9,8 @@ body{
   display: flex;
   flex-direction: column;
   border: 1px solid black;
-  min-width: 600px;
-  min-height: 30vh;
+  min-width: 700px;
+  min-height: 250px;
   background-color: black;
   border-radius: 15px;
   box-shadow: 5px 5px 8px white;
@@ -28,7 +28,7 @@ h3{
   flex-direction: column;
   align-self: center;
   margin-left: 20px;
-  max-width: 70%;
+  max-width: 500px;
 }
 
 .icon-quote{
@@ -49,7 +49,7 @@ h3{
   width: 40px;
   position: relative;
   left: 80%;
-  bottom: 10px;
+  bottom: 50px;
   background-color: transparent;
   margin: 0;
   padding: 0;
